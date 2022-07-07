@@ -23,3 +23,22 @@
     padding: 10px 40px;
     border-radius: 5px;
 }
+
+.view-button {
+    text-align: center;
+}
+
+.button-amount {
+    margin-left: 5px;
+    padding: 20px 10px;
+}
+
+.button-amount {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 220px;
+    margin: 20px;
+
+}
